@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-create-page-html",
   "description": "Helps prevent 301 redirects of paths without trailing slashes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "stldo (https://github.com/stldo)",
   "license": "MIT",
   "repository": "https://github.com/stldo/gatsby-plugin-create-page-html",
